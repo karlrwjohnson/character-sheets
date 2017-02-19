@@ -1,0 +1,154 @@
+"Samuel"
+Sharakim Incanter 1 + Fighter 2
+
+Backstory
+  - Hails from a villiage in the Wild Lands
+  - Village was cursed/blessed long ago during a particularly bad winter, when
+    a group of humans asked a demigod (DM fill in here) for help to survive
+  - Demigod made the humans more orklike because orks are hardy, right?
+  - Years of training taught him to use the transformation that marked his
+    people, and the cold that motivated it, for combat.
+  - Carries ancestral amulet of his people to help channel his power.
+  - Sent to Similaris to represent his village and form alliances/
+  - Not terribly good at negotiation. Best warrior, not the best diplomat.
+    Hence the need to work with a party.
+  - Finds orks disturbing -- despite outward similarities, they have
+    an uncivilized approach to warfare. Thinks they're backwards.
+
+Abilities
+  STR  18 = (10p) 16 + (Sha) 2
+  DEX  10 = ( 2p) 12 - (Sha) 2
+  CON  14 = ( 5p) 14
+  INT  18 = (10p) 16 + (Sha) 2
+  WIS  10 = ( 0p) 10
+  CHA   6 = (-2p)  8 - (Sha) 2
+
+Offense
+  BAB   2.17 = (Fgh 1) +1.00 + (Mag 1) +0.67 + (Inc 1) +0.50
+
+  Init  0 = (DEX) +0
+
+  +1 racial attack bonus against orcs & half-orcs
+
+  Greatsword - 2H, 2d6, 19-20x2
+    Attack d20+5 = (BAB) +2 + (STR) +4 + (Pwr) -1
+    Damage 2d6+6 = (STR×1½) +6 + (Pwr) +2
+      ↳       +1 cold
+      ↳   +1d6+3 cold if channeling frost
+      ↳   +1d6+1 elec +1 cold if channeling electricity
+      ↳   +1d6+1 sonic +1 cold if channeling thunder
+
+Defense
+  Half-plate - +9 AC, Max Dex +0, Speed 20ft, Penalty -7
+
+  Armor  20 = 10 + (DEX) 0 + (Rmr) +9 + (Nat) +1
+  Touch  10
+  Flat   20
+
+  FORT  6.33 = (CON) +2 + (Fgh 2) +3.00 + (Inc 1) +0.33 + (Cloak) +1
+  REFL  2.00 = (DEX) +0 + (Fgh 2) +0.67 + (Inc 1) +0.33 + (Cloak) +1
+  WILL  4.17 = (WIS) +0 + (Fgh 2) +0.67 + (Inc 1) +2.50 + (Cloak) +1
+   ↳   +1      against fear (Bravery: Fgh 2)
+
+Feats
+  [ChL 1] Combat Casting
+  [ChL 3] Extra Talent
+  [Fgh 1] Power Attack (1/4 BAB for 2:1 damage)
+  [Fgh 2] Cleave (hit someone -> hit someone adjacent)
+
+Spell Points
+  Pool  6 = (Inc 1) +1 + (INT) +4 + (Drawback) 1
+
+  Drawbacks: 1
+    @1: +1, +1/6 lvls    1 . . . . 6 . . .  .  . 12  .  .  .  .  . 18  .  .
+    @2: +1, +1/3 lvls    1 . 3 . . 6 . . 9  .  . 12  .  . 15  .  . 18  .  .
+    @3: +1, +1/odd lvl   1 . 3 . 5 . 7 . 9  . 11  . 13  . 15  . 17  . 19  .
+    @4: +1, +1/1.5 lvls  1 2 3 . 5 6 . 8 9  . 11 12  . 14 15  . 17 18  . 20
+    @5: +1/lvl           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+  - Focus casting - Amulet (ancestral?)
+
+Spheres & Talents - 4 = 2 + (Inc 1) 2 + (Feat) 1
+
+  Sorcerer bloodline: Accursed
+    "Horrific Visage" - Target perceives caster as having horrifying appearance
+                        Target becomes shaken for 1 round
+                        Single target, Will save DC 15 (=10 + ½lvl + STAT)
+                        Times/day: 7 (=3 + STAT)
+
+  Alteration (*)
+    ↓ Lycanthropic      - (DRAWBACK) Can only affect self
+    - Shapeshift        - Standard action, 1 SP for 1min or Concentration:
+                          May choose 1 form and up to 1 trait
+    D Size Change: As enlarge or Reduce person
+
+    Forms: Blank form only (so far)
+
+    Traits:
+      Darkvision 60ft (redundant)   Low-light vision (redundant)
+      Claws x2 (1d4 ea)             Slam x2 (1d4 ea)
+      Bite (1d6)                    Gore (1d6)
+      Pincers x2, (1d6 2ndary)      Change appearance (+10 Disguise)
+
+  Enhancement (*)
+    ↓ Personal Magics   - (DRAWBACK) Can only affect self
+    - Enhance equipment - Standard action, 1 SP for 1min or Concentration:
+                          Armor or weapon gains +1 enhancement bonus
+    D Physical Enhanc.  - +2 enhancement to STR, DEX, or CON
+
+  Destruction (Focus: +1 CaL in this sphere)
+    ↓ Destructive Touch - (DRAWBACK) Can only make melee touch attacks
+    - Destructive Blast - 1d6 bludgeoning damage. 2d6 if I spend 1 SP
+    F Intense Magic     - +1 damage (= ½IncLvl min 1)
+    F Movement Burst    - Swift Action, 3+STAT=7/day:
+                          Burst of energy propels you 20 feet
+    D Energy Blade      - cast through blade
+    * Electric Blast    - deal electric damage instead
+    * Frost Blast       - deal frost damage instead
+    * Thunder Blast     - deal sonic damage instead
+
+Skills - 6 = 2+INT
+  Appraise          = (INT)
+  Climb             = (STR) +4 + (Rnk) 1 + (Train) 3
+  Craft             = (INT) +4 + (Rnk) 1 + (Train) 3
+  Fly               = (INT) +4
+  Handle Animal     = (CHA)
+  Intimidate      8 = (STR) +4 + (Rnk) 1 + (Train) 3
+  K. Arcana       5 = (INT) +4 + (Rnk) 1 + (Train) 3
+  K. Engineering  5 = (INT) +4 + (Rnk) 1 + (Train) 3
+  K. History      5 = (INT) +4 + (Rnk) 1 + (Train) 3
+  K. Local        5 = (INT) +4 + (Rnk) 1 + (Train) 3
+  Linguistics       = (INT)
+   - Common
+   - Dwarven
+   - Elven
+   - Gnome
+   - Orc
+  Perception      7 = (WIS) +0 + (Rnk) 3 + (Train) 3 + (Trait) 1
+   ↳ Darkvision 60 feet
+   ↳ +2 bonus in shadow
+  Profession        = (WIS)
+  Ride              = (DEX)
+  Spellcraft      7 = (INT) +4 + (Rnk) 3 + (Train) 3
+  Stealth
+   ↳ +2 bonus in shadow
+  Survival        4 = (WIS) +0 + (Rnk) 1 + (Train) 3
+  Swim            8 = (STR) +4 + (Rnk) 1 + (Train) 3
+
+Equipment
+  3,000 gp - Budget
+
+  1,500 gp - Full Plate
+    350 gp - Greatsword, Masterwork
+     ??    - Sunglasses (light sensitivity)
+  1,000 gp - Cloak of resistance +1
+
+  2,850 gp - Spent
+    150 gp - remaining
+
+Traits
+ - Seeker (Social) - +1 to Perception, and Perception is always a class skill
+ - Ice Veins (Warudir) - Weapon deals +1 cold damage, +2 if already cold
+
+
+

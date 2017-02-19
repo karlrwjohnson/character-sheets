@@ -1,0 +1,170 @@
+"The Bat"
+Ratfolk Incanter 2 Rogue 1
+
+  "An urban legend tells of a large, batlike creature which flies from house to
+  house, pilfering valuables from under their owners' noses."
+
+Abilities
+  STR   6 = (-2p)  8 + (Rfk) -2
+  DEX  18 = (10p) 16 + (Rfk) +2
+  CON  12 = ( 2p) 12
+  INT  20 = (15p) 18 + (Rfk) +2
+  WIS  10 = ( 0p) 10
+  CHA  10 = ( 0p) 10
+
+Equipment
+ 3,000 gp - Budget
+ -------------------
+ 2,500 gp - Cloak of Elvenkind, tailored to look like a bat's wings
+    10 gp - Leather Armor
+    20 gp - Caltrops, 20 5ft sq's worth
+    20 gp - Rapier
+   100 gp - Thieves' tools, masterwork
+    10 gp - Rope - 50ft, silk
+
+Offenses
+  BAB  1.67 = (Rog 1) 0.67 + (Inc 2) 1.00
+
+  +1 size bonus to attack rolls
+  +2 melee attack when alone and @ half or fewer HP (Cornered Fury)
+  Sneak Attack +1d6
+
+  Small Dagger - 1d3, 19-20x2
+  Small Rapier - 1d4, 18-20x2
+
+Defenses
+  Leather Armor - 10gp, AC +2, Max Dex +6, Penalty -0, full speed, 15 lbs
+  +2 to AC when alone and @ half or fewer HP (Cornered Fury)
+
+  Armor   16 = 10 + (DEX) +4 + (Leather) +2
+  Touch   14
+  Flat    12
+
+  Flying  17 = 10 + (INT) +5 + (Leather) +2
+  Touch   15
+
+  FORT  2.00 = (Con) +1 + (Rog 1) 0.33 + (Inc 2) 0.67
+  REFL  3.17 = (Dex) +4 + (Rog 1) 2.50 + (Inc 2) 0.67
+  WILL  2.83 = (Wis) +0 + (Rog 1) 0.33 + (Inc 2) 2.50
+
+  CMD      4 = (BAB) 1 + (Str) -2 + (Dex) 4 + (Sm) -1 + (TK Stability) 2
+
+  HP      __ = (Rog @ lvl 1) 8 + (Inc 2) 2d6=__+__ + (CON*ChL) 3
+
+Feats
+  [Lvl 1] ???
+  [Lvl 3] ???
+
+Skills - 27 = (INT*lvl) 15 + (2*2 Inc) 4 + (8*1 Rog) 8
+  Acrobatics        10 = (Dex) +4 + (Rnk) 3 + (Trn) 3
+  Appraise           9 = (Int) +5 + (Rnk) 1 + (Trn) 3
+  Bluff             __ = (Cha)
+  Climb              4 = (Str) -2 + (Rnk) 3 + (Trn) 3
+  Craft             __ = (Int) +5
+  Diplomacy         __ = (Cha)
+  Disable Device    10 = (Dex) +4 + (Rnk) 3 + (Trn) 3
+   ↳ +1 to find traps (Trapfinding)
+  Disguise          __ = (Cha)
+  Escape Artist     __ = (Dex) +4
+  Fly               11 = (Int) +5 + (Rnk) 3 + (Trn) 3
+  Intimidate        __ = (Cha)
+  Linguistics       __ = (Int) +5
+   - Common
+   - Dwarven
+   - Elven
+   - Gnome
+   - Halfling
+   - Ork
+  Knowledge         __ = (Int) +5
+   - Arcana          9 = (Int) +5 + (Rnk) 1 + (Trn) 3
+   - History         9 = (Int) +5 + (Rnk) 1 + (Trn) 3
+   - Local           9 = (Int) +5 + (Rnk) 1 + (Trn) 3
+   - Religion        9 = (Int) +5 + (Rnk) 1 + (Trn) 3
+  Perception         8 = (Wis) +0 + (Rnk) 3 + (Trn) 3 + (Racial) +2
+   ↳ Darkvision 60ft
+   ↳ +1 to find traps (Trapfinding)
+  Perform           __ = (Cha)
+  Profession        __ = (Wis)
+  Sense Motive      __ = (Wis)
+  Sleight of Hand   10 = (Dex) +4 + (Rnk) 3 + (Trn) 3
+  Spellcraft        __ = (Int) +5
+  Stealth           19 = (Dex) +4 + (Rnk) 3 + (Trn) 3 + (Sm) +4 + (Cloak) +5
+  Swim              __ = (Str)
+  Use Magic Device   6 = (Cha) +0 + (Rnk) 1 + (Trn) 3 + (Racial) +2
+
+Spell Points - 7 = (CHA) 5 + (Inc 2) 1 + (Drawback 1) 1
+  DRAWBACK: Somatic Casting I
+
+Spheres & Talents - 5 = 2 + (Inc 2) 3
+
+  Sorcerer Bloodline: Naga
+    - Invisibility: [Inc+STAT=7] rounds/day
+
+  Telekinesis (Focus)
+    (F) CaL bonus       - +1
+    --- Telekinesis     - Lift object of size depending on CaL (@CaL 3, Tiny)
+                          Changing direction is a move action
+    --- Sustained force - 1 SP, simple commands, 1min/CaL (=3)
+         ↳ I take for granted that if cast on self, you effectively gain the
+           benefits of the Flight talent without taking that talent.
+    --- Hostile lift    - Will save negates each round
+    --- Bludgeon        - Attack with weapon or object.
+                          Small objects deal 1d4; adjust die for size categoroy
+    (F) TK Stability    - +2+[Lvl/5] bonus to Fly, Acrobatics, and CMD.
+    (F) TK Impediment   - Immediate action, 3+[STAT]/day
+                          Apply a penalty of -1-[Lvl/5] to anyone's attack roll
+    (*) Finesse         - Telekinesis can perform fine manipulations,
+                          make skill checks at -5 penalty
+    (*) Flair           - May apply feats to bludgeon attacks
+    (*) Greater Speed   - Speed is 35ft = 30+5*[CaL/2]
+    (*) Powerful TKS    - Size increases by one category (Tiny -> Small)
+    (*) Steal           - Use TKS on attended objects. Will saves. Steal or
+                          Disarm combat maneuver at CMB = 4 = [CaL + STAT - 5]
+
+============
+Random notes
+
+
+Telekinesis + Ratfolk + Powerful Telekinesis + Flight (maybe):
+  Character can fly at level 3 at 20ft/round
+  Greater Speed: from 20+5*[Lvl/5]ft to 30+5*[Lvl/2]ft
+  Focus 
+    @ Lvl 3: 40ft
+
+Subtract flight, and you can at least lift yourself.
+Changing direction is a move action though.
+
+Divided mind + Finesse + Flair lets you be a ranged melee fighter,
+but I'd rather rain down fireballs.
+
+Flair to aply feats
+Finesse + Flair for Disable Device
+Finesse + Steal for Sleight of Hand
+Flair + Steal to apply Improved Steal
+
+Naga bloodline gives easy access to invisibility to ensure incognito entry and exit
+Teleport from the Warp sphere should get past any locked windows and doors
+Bag of holding and you have the best thief ever?
+
+Hostile Lift should be able used to 
+
+
+DRAWBACK for Telekinesis is nothing special -- it affects only one element type,
+  a la Avatar:TLAB
+The fact that you can do this on Concentration is pretty awesome; you get free,
+unlimited flight.
+
+FOCUS:
+  Caster Level +1 with sphere
+  Ongoing: Telekinetic Stability
+    +2+[Lvl/5] bonus to Fly, Acrobatics, and CMD.
+  Special ability: Telekinetic Impediment
+    Immediate action, 3+[STAT]/day
+    Apply a penalty of -1-[Lvl/5] to anyone's attack roll
+  8th-level ability: Great Flight
+    Flight speed of 50 for [Lvl] minutes per day
+    Nonconsecutive, but spent in 1-min increments
+
+
+Warp
+- 
